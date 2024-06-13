@@ -33,9 +33,8 @@ Quotesphere fetches quotes from the [Quotes API](https://api.quotable.io/random)
 ## Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/ANANDRAJ012/Random-Quotations.git
    cd Quotesphere
    
-   Feel free to explore and build upon this project to create a fully functional quotesphere application. For any questions or assistance, please don't hesitate to reach out to us. Happy coding and happy shopping!
+Feel free to explore and build upon this project to create a fully functional quotesphere application. For any questions or assistance, please don't hesitate to reach out to us. Happy coding and happy shopping!
